@@ -1,0 +1,5 @@
+# Private API key (see .env.example)
+.env
+
+# Jupyter autosave files
+.ipynb_checkpoints/
